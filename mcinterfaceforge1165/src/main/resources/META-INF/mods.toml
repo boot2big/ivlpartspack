@@ -1,0 +1,17 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+
+license="All rights reserved"
+
+[[mods]]
+modId="ivlpartspack"
+version="${file.jarVersion}"
+displayName="IVLabs Parts Pack"
+displayURL=""
+logoFile="vingette.png"
+authors="cowboycosmic"
+# laura cute
+credits="LauraDarkez2001"
+description='''
+Parts pack
+'''

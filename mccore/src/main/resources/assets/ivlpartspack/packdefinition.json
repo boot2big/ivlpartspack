@@ -1,0 +1,14 @@
+{
+	"packID" : "ivlpartspack",
+	"packName" : "§6IVLabs Parts Pack",
+	//"packItem" : "logo_ivv",
+	"fileStructure" : 0,
+	"activators": {
+		"jsondefs_base_ivlabs": [],
+		"jsondefs_base_craftingmaterials_vanilla": []
+	},
+	"blockers" : {},
+	//"dependents": ["ivlpartspack"],
+	"internalSkinsInOwnTab": true
+
+}
